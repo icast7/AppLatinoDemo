@@ -1,3 +1,4 @@
-Nombre,Telefono,Direccion,Descripcion
-CIO,503000000000,Killingsworth,Esta es la descripcion
-CAUSA,x,y,z
+Nombre|Telefono|Direccion|Descripcion
+CIO|503000000000|Killingsworth|Esta es la descripcion
+CAUSA|x|y|z
+IRCO|a|b|c
